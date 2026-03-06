@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 The Full-Stack Sprint (2019 - 2026)
+### The Full-Stack Sprint (2019 - 2026)
 What started as a pandemic hobby in 2019 coding game worlds on Roblox became a mission to master the stack before my 3rd-year Capstone.
 
 - 🕹️ **Origin:** Self-taught logic via Lua/Roblox Studio (2019).
@@ -22,7 +22,7 @@ What started as a pandemic hobby in 2019 coding game worlds on Roblox became a m
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -34,8 +34,8 @@ What started as a pandemic hobby in 2019 coding game worlds on Roblox became a m
 
 ---
 
-### ⚡ Quick Facts & Hobbies
-- Logic is powered by 3 cups of coffee daily.
+### Quick Facts & Hobbies
+- Drinking 3+ coffees a day on average.
 - Aspiring Software Engineer focusing on performance, clean code, and scalability.
 
 ---
