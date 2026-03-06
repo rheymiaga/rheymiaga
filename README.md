@@ -15,10 +15,10 @@
 ### The Full-Stack Sprint (2019 - 2026)
 What started as a pandemic hobby in 2019 coding game worlds on Roblox became a mission to master the stack before my 3rd-year Capstone.
 
-- 🕹️ **Origin:** Self-taught logic via Lua/Roblox Studio (2019).
-- 🎯 **Mission:** Set a goal to reach Full-Stack status before Year 3 to lead my upcoming thesis.
-- 🏆 **Status:** Goal reached in Year 2, 2nd Trimester—one trimester ahead of schedule.
-- 📅 **Currently:** Entering 3rd Trimester (March 2026) with a production-ready mindset.
+- **Origin:** Self-taught logic via Lua/Roblox Studio (2019).
+- **Mission:** Set a goal to reach Full-Stack status before Year 3 to lead my upcoming thesis.
+- **Status:** Goal reached in Year 2, 2nd Trimester—one trimester ahead of schedule.
+- **Currently:** Entering 3rd Trimester (March 2026) with a production-ready mindset.
 
 ---
 
