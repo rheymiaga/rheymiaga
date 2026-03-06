@@ -42,7 +42,7 @@ What started as a pandemic hobby in 2019 coding game worlds on Roblox became a m
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rheymiaga&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rheymiaga&theme=tokyonight" height="150" />
 </p>
 
 ---
