@@ -35,8 +35,8 @@ What started as a pandemic hobby in 2019 coding game worlds on Roblox became a m
 ---
 
 ### ⚡ Quick Facts & Hobbies
-- ☕ **Fuel:** Logic is powered by 3 cups of coffee daily.
-- 🚀 **Goal:** Aspiring Software Engineer focusing on performance, clean code, and scalability.
+- Logic is powered by 3 cups of coffee daily.
+- Aspiring Software Engineer focusing on performance, clean code, and scalability.
 
 ---
 
